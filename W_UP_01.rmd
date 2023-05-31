@@ -76,4 +76,4 @@ As the data shows the players with skill can do far more pushups than the player
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
   
 In conclusion, the box plot displayed above and the Sample test conclude that the players with Sill can do almost 3x the amount of push ups than the players with line. Taking the results of pushups, positions and my data helped conclude this fact. using chat gpt to acquire the appropriate code helped with this conclusion. chat GPT helped alot with command codes.  
-  
+    
