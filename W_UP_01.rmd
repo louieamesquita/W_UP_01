@@ -68,7 +68,7 @@ Q3 is lower than Q1 meanwhile skill Q1 and Q3 is greater than line.Skill has a f
 t.test(pushups~position,data=mydata)
 ```
 As the data shows the players with skill can do far more pushups than the players with Line.
-
+  
 
 
 # Discussion and Conclusion
