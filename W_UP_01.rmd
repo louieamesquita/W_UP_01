@@ -49,7 +49,7 @@ ggplot(mydata, aes(x = position, y = pushups)) +
 ```
   
 The box with Line is lower than The Box with skill. The individuals with skill are doing far more pushups the than the ones with line, about %15 more.
-
+  
 
 ### Numerical Descriptive Results
 
